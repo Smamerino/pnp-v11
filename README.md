@@ -1,3 +1,5 @@
+##This is none of my work whatsoever, I just updated the module to v11 by editing a few lines of code.
+
 # PnP - Pointer and Pings!
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/moerill/fvtt-pointer?style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/moerill/fvtt-pointer?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/moerill/fvtt-pointer/latest/total?style=flat-square">  
 
